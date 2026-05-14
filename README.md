@@ -1,9 +1,12 @@
+> **Problem Statement:** [B7A1](https://github.com/Apollo-Level2-Web-Dev/B7A1)
 # (L2-Assignment-01) : Problem Solving and Blogging
 
 This repository contains solutions to various TypeScript problems and informative blogs on key TypeScript concepts. The project demonstrates a strong understanding of type safety, generics, OOP, and utility types.
 
-## 📁 Project Structure
 
+
+## 📁 Project Structure
+> [**Problem Statement**](https://github.com/Apollo-Level2-Web-Dev/B7A1): The original requirements for this assignment.
 - [**solutions.ts**](./solutions.ts): Contains the implementation for 7 different TypeScript problems.
 - [**blog-1.md**](./blog-1.md): A blog explaining the differences between `any` and `unknown` types.
 - [**blog-2.md**](./blog-2.md): A blog discussing the power and reusability of TypeScript Generics.
