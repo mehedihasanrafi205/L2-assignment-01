@@ -1,4 +1,4 @@
-> **Problem Statement:** [B7A1](https://github.com/Apollo-Level2-Web-Dev/B7A1)
+
 # (L2-Assignment-01) : Problem Solving and Blogging
 
 This repository contains solutions to various TypeScript problems and informative blogs on key TypeScript concepts. The project demonstrates a strong understanding of type safety, generics, OOP, and utility types.
